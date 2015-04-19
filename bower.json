@@ -2,7 +2,7 @@
   "name": "pre-cortex",
   "version": "0.0.1",
   "authors": [
-    "Ole Henrik Skogstrøm <oleskogstrom@gmail.com>"
+    "Ole Henrik Skogstrøm"
   ],
   "description": "a scss framework",
   "main": "index.scss",
@@ -17,5 +17,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "compass-breakpoint": "~2.5.0"
+  }
 }
