@@ -1,0 +1,21 @@
+{
+  "name": "pre-cortex",
+  "version": "0.0.1",
+  "authors": [
+    "Ole Henrik Skogstrøm <oleskogstrom@gmail.com>"
+  ],
+  "description": "a scss framework",
+  "main": "index.scss",
+  "keywords": [
+    "pre-cortex",
+    "cortex"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
