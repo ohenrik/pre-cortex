@@ -1,11 +1,11 @@
 {
   "name": "pre-cortex",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "authors": [
     "Ole Henrik Skogstrøm"
   ],
   "description": "a scss framework",
-  "main": "index.scss",
+  "main": "pre-cortex.scss",
   "keywords": [
     "pre-cortex",
     "cortex"
