@@ -48,6 +48,10 @@ small {
   font-size: $base-font-size * 0.75;
   color: $muted-color;
 }
+a, a:visited, a:link {
+  color: $primary-color;
+  text-decoration: none;
+}
 .page-header {
   border-bottom: 2px solid $primary-color;
   margin-bottom: 15px;

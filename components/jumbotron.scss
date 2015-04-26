@@ -2,6 +2,7 @@
   border-bottom: 5px solid;
   min-height: 250px;
   margin-bottom: 45px;
+  background-color: $bg-gray-color;
 }
 .jumbotron-primary {
   @extend .jumbotron;
@@ -16,7 +17,7 @@
 h1.message {
   font-size: 81px;
   padding-top: 45px;
-  padding-bottom: 45px; 
+  padding-bottom: 45px;
   small {
     font-size: 18px;
   }
